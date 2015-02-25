@@ -1,0 +1,36 @@
+Email instructions for git/github friday noon seminar ad
+
+Things you should do ahead of time:
+
+DEFINITELY DO THIS
+1) Sign up for a github account
+- github.com
+- pick a username/password/email
+- important: use an email that ends in .edu
+- choose the "free" plan (you can later upgrade to the micro plan for free with your .edu email)
+
+OPTIONAL BEFORE FNS
+1b) If you want to upgrade to the micro plan (free private repositories)
+- https://education.github.com/, click "request a discount" (takes you to https://education.github.com/discount_requests/new)
+- fill out and you'll eventually get an email that informs you you've been upgraded to the micro plan
+
+DEFINITELY DO THIS
+2) Install git (the revision control system that tracks changes to docs and folders)
+- https://help.github.com/articles/set-up-git/
+- Do the steps in the "setting up git" section 
+- You might need to upgrade your operating system if you're way behind
+- Ignore everything below "Next steps: Authenticating with GitHub from Git" (we're not going to deal with the command line)
+- This video walks through the website: https://www.youtube.com/watch?v=TI3yVcSahzk&index=2&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
+
+DEFINITELY DO THIS
+3) Install the Github software (which allows you to use git without using the command line)
+- https://mac.github.com/ 
+OR 
+- You might have just downloaded this when you downloaded git in step (2), since Github directed Windows users to get git bundled with the Github software
+- If you already had git but now need Github For Windows, you can find it here: https://windows.github.com/
+- You might need to upgrade your operating system if you're way behind
+
+That's it!  We'll walk through how to use each of these tools during FNS.
+
+
+
